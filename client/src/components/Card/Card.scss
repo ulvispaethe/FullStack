@@ -1,0 +1,14 @@
+.card{
+    border: 1px solid;
+    width: 30%;
+    text-align: center;
+    &__title{
+        padding: 10px;
+    }
+    &__desc{
+        padding: 10px;
+    }
+    img{
+        width: 100%;
+    }
+}
